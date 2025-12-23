@@ -1,0 +1,26 @@
+header {
+  background-color: #353535;
+  color: #fff;
+  width: 100%;
+  height: 5rem;
+
+  nav {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    a:hover,
+    a:active {
+      color: #cf54a6;
+    }
+  }
+}
